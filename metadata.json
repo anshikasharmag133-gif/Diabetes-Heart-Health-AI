@@ -1,0 +1,6 @@
+{
+  "name": "Diabetes AI Intelligence Lab",
+  "description": "Advanced AI/ML research and experimentation platform for diabetes risk modeling, model evaluation, explainability (XAI), what-if simulation, and calibration analysis.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
